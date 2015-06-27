@@ -22,11 +22,11 @@ to me, she/he reads a bit easier than s/he. Is there CP/AP/CMOS style on this?
 How about "You"? Makes it more personal, instead of talking in third person, also avoids gender identity issues
   - How to respond to emails (recruiter emails, notes)
 I have a strategy for responding to recruiters and making the situation mutually productive: even if you're not interested in the job, ask about an issue you care about so that they have to then return to their employer and develop a policy for answering/addressing those requests. I always ask about "what's your company's policy on providing transgender healthcare?"
-> Thanks for writing. What is the demographic makeup of the team at [company name]? Having a diverse company is very important to me. Does the company — and its leadership team — consist of people other then white and asian men?
-> [Optional addition] Do you have a publicly available diversity report? Something like this?s
-> http://www.google.com/diversity/at-google.html
-> https://www.apple.com/diversity/
-> I’d need to see one of those before we began any discussions.
+>> Thanks for writing. What is the demographic makeup of the team at [company name]? Having a diverse company is very important to me. Does the company — and its leadership team — consist of people other then white and asian men?
+>> [Optional addition] Do you have a publicly available diversity report? Something like this?s
+>> http://www.google.com/diversity/at-google.html
+>> https://www.apple.com/diversity/
+>> I’d need to see one of those before we began any discussions.
 
 
 We added this language to all Moz OpenNews ads: "If you’re deeply interested in working on technical problems within journalism and have relevant skills and experience, please consider applying even if your background doesn’t perfectly match our ideal credentials. We are committed to diversity and especially encourage members of underrepresented communities to apply." But boiler plate language doesn't solve anything - it feels disconnected from the rest of the body.
