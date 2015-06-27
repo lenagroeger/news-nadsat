@@ -2,16 +2,16 @@
 
 An inclusive dictionary of all the language, terms, guidelines and checklists that create a safe and encouraging environment for a diverse group of people in and out of the newsroom.
 
-Lena Groeger, ProPublica, @lenagroeger
-Aurelia Moser, CartoDB, @auremoser
+By Lena Groeger, ProPublica, [@lenagroeger](https://twitter.com/lenagroeger)
+ & Aurelia Moser, CartoDB, [@auremoser](https://twitter.com/auremoser)
 
 [SRRCON Session:](http://schedule.srccon.org/#_session-11)
 [Etherpad:](https://etherpad.mozilla.org/news-nadsat)
 [Live transcription:](http://www.streamtext.net/player?event=SRCCON2015NewsroomNadsat&chat=false&controls=false&footer=false&bgc=ffffff&fgc=111111&ff=Helvetica,Arial&fs=18)
 
 
-1. Posting/Recruiting
-----------
+## 1. Posting/Recruiting
+
 Posting jobs or invitations to events can be challenging; horror stories are innumerable. [DEFCON has an FAQ](http://geekfeminism.wikia.com/wiki/DEFCON) on their site where gender biased/insensitive language can be rampant, gamergate exposed us to a range of negative vocab on the internet and a [population of anonymous people](http://www.cracked.com/blog/5-things-i-learned-as-internets-most-hated-person/) willing to propagate that drivel. How can we bandage this situation and adopt more sensitive language to welcome all parties to opportunities in journalism?
   - Language used in different job postings
 Be gender-neutral. Job description text should use gender-neutral language and make no assumptions or constructions about the gender identity or presentation of readers and potential applicants.
@@ -48,8 +48,8 @@ good/bad examples of EOE sentences/paragraphs at the ends of job postings:
 
 Having concrete examples: sample job descriptions redlined — before-and-after versions — with exclusionary/inclusionary language — would be helpful.
 
-2. Hiring/Interviews
-----------
+## 2. Hiring/Interviews
+
 "Most interviews are a waste of time because 99.4 percent of the time is spent trying to confirm whatever impression the interviewer formed in the first ten seconds." - Senior Vice President of People Operations at Google http://www.wired.com/2015/04/hire-like-google/
 
 As fair and impartial as we like to think we are, we are all subject to biases: we favor people who look and talk like us, we form quick impressions based on few facts, we hold implicit beliefs about large groups of people. Given these biases, how do we make sure all applicants for a job are treated fairly and assessed accurately? One way is to have structured interviews (not vastly open ended questions like "Tell me about yourself..." or trivia-dependent brainteasers like “How many golf balls would fit inside a 747?”
@@ -75,8 +75,8 @@ http://www.wired.com/2015/04/hire-like-google/
 http://www.hiremorewomenintech.com/
 https://leanpub.com/the-diverse-team
 
-3. Workplace/Conferences
-----------
+## 3. Workplace/Conferences
+
 Code of Conduct policies are pretty important at most events these days (http://geekfeminism.wikia.com/wiki/Code_of_conduct), and understanding how to manage, encourage and build a diverse team is an important part of maintaining healthy and welcoming work environments.
 
 Things to consider:
@@ -105,8 +105,7 @@ Related: https://en.wikipedia.org/wiki/High-_and_low-context_cultures
 
 There are ways to exclude people and make them feel unwelcome — especially new people — even if it's not discrimination against a protected class — is crappy, too. Think about inclusion more generally. How do you treat people? Thing about the idea of taking care of people.
 
-4. Content/Work/Stories
-----------
+## 4. Content/Work/Stories
 
 When thinking about writing/creating inclusive stories, it is important to think about the processes (the checklists, the written standards and protocols) that happen before publication. Many of you may be familiar with the Grantland story about Dr. V, which outed a transexual person who eventually committed suicide before the story was published.
 http://grantland.com/features/what-grantland-got-wrong/
@@ -148,20 +147,20 @@ Example: cast the widest net possible when gathering sources at the very beginni
 Frame conversation as "here are some techniques to get better sources/do better reporting" not, "this is what was problematic in your story" Look to the future, not rehash past missteps.
 
 
-RESOURCES
-==================
+# RESOURCES
 
-What to do:
+### What to do:
+
 http://boingboing.net/2015/06/01/how-to-talk-about-caitlyn-jenn.html
 https://hbr.org/2014/01/theres-no-excuse-for-all-white-male-panels
 https://kateheddleston.com/blog/social-norms-and-gendered-expectations
 
-What not to do:
+### What not to do:
 http://letsgetrandy.github.io/DICSS/
 http://geekfeminism.wikia.com/wiki/DEFCON
 https://codebabes.com/
 
-References:
+### References:
 Combatting bias: http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Countering_systemic_bias#Selection_based_on_gender_bias
 Wikipedia: manual of style: https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Pronouns
 Resources for Wikipedia Editathon: http://art.plusfeminism.org/resources/more/
@@ -173,15 +172,12 @@ http://www.buzzfeed.com/jtes/someone-impersonated-me-to-trick-a-sexual-assault-v
 GLAAD has terrific media guides on covering some of these issues: http://www.glaad.org/reference, http://www.glaad.org/reference/transgender
 
 
-Moving Forward:
+# Moving Forward
 We want to make a simple site for persistent reference, what might that site look like?
-...Post ideas below...
-http://airportcod.es/ <- simple and intuitive lookup resources
-http://www.datavizcatalogue.com/ <- like sort functions
-http://www.hiremorewomenintech.com/ <- good resources, not super pretty
-http://aboutfeminism.me/ <- good explanation, but again, a list
+[AirportCode](http://airportcod.es/): simple and intuitive lookup resources
+[The Data Visualisation Catalogue](http://www.datavizcatalogue.com/): like sort functions
+[Hire More Women In Tech](http://www.hiremorewomenintech.com/): good resources, not super pretty
+[About Feminism](http://aboutfeminism.me/): good explanation, but again, a list
 
-I'm currently in grad school working on a site called LGBTQLexicon:
-https://gist.github.com/Emily-Goldblum/ee6a5c206ce6eb1d2bed#file-scope-template-md
-This website will act as an interactive dictionary for queer terms. If you have any questions and/or suggestions please reach out to me directly: emily.goldblum@journalism.cuny.edu
+[LGBTQLexicon](https://gist.github.com/Emily-Goldblum/ee6a5c206ce6eb1d2bed#file-scope-template-md): This website will act as an interactive dictionary for queer terms. Contatct emily.goldblum@journalism.cuny.edu with any questions.
 
