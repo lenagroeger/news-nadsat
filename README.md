@@ -22,11 +22,13 @@ to me, she/he reads a bit easier than s/he. Is there CP/AP/CMOS style on this?
 How about "You"? Makes it more personal, instead of talking in third person, also avoids gender identity issues
   - How to respond to emails (recruiter emails, notes)
 I have a strategy for responding to recruiters and making the situation mutually productive: even if you're not interested in the job, ask about an issue you care about so that they have to then return to their employer and develop a policy for answering/addressing those requests. I always ask about "what's your company's policy on providing transgender healthcare?"
-Thanks for writing. What is the demographic makeup of the team at [company name]? Having a diverse company is very important to me. Does the company — and its leadership team — consist of people other then white and asian men?
-[Optional addition] Do you have a publicly available diversity report? Something like this?
-http://www.google.com/diversity/at-google.html
-https://www.apple.com/diversity/
-I’d need to see one of those before we began any discussions.
+> Thanks for writing. What is the demographic makeup of the team at [company name]? Having a diverse company is very important to me. Does the company — and its leadership team — consist of people other then white and asian men?
+> [Optional addition] Do you have a publicly available diversity report? Something like this?s
+> http://www.google.com/diversity/at-google.html
+> https://www.apple.com/diversity/
+> I’d need to see one of those before we began any discussions.
+
+
 We added this language to all Moz OpenNews ads: "If you’re deeply interested in working on technical problems within journalism and have relevant skills and experience, please consider applying even if your background doesn’t perfectly match our ideal credentials. We are committed to diversity and especially encourage members of underrepresented communities to apply." But boiler plate language doesn't solve anything - it feels disconnected from the rest of the body.
 Pipeline issues are part of the issue. The org needs to work not that as well.
 There are groups to talk to with more diverse potential candidates. We also need to be more present in communities that don't currently see us as places to work. We can't just walk in and say "give us your best people."
@@ -150,26 +152,26 @@ Frame conversation as "here are some techniques to get better sources/do better 
 # RESOURCES
 
 ### What to do:
-
-http://boingboing.net/2015/06/01/how-to-talk-about-caitlyn-jenn.html
-https://hbr.org/2014/01/theres-no-excuse-for-all-white-male-panels
-https://kateheddleston.com/blog/social-norms-and-gendered-expectations
+- [How to talk about Caitlyn Jenner](http://boingboing.net/2015/06/01/how-to-talk-about-caitlyn-jenn.html)
+- [No Excuse for All White Male Panels](https://hbr.org/2014/01/theres-no-excuse-for-all-white-male-panels)
+- [Social Norms and Expectations](https://kateheddleston.com/blog/social-norms-and-gendered-expectations)
 
 ### What not to do:
-http://letsgetrandy.github.io/DICSS/
-http://geekfeminism.wikia.com/wiki/DEFCON
-https://codebabes.com/
+- [DICSS](http://letsgetrandy.github.io/DICSS/)
+- [DEFCON](http://geekfeminism.wikia.com/wiki/DEFCON)
+- [Code Babes](https://codebabes.com/)
+
 
 ### References:
-Combatting bias: http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Countering_systemic_bias#Selection_based_on_gender_bias
-Wikipedia: manual of style: https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Pronouns
-Resources for Wikipedia Editathon: http://art.plusfeminism.org/resources/more/
-Lesson Plan: http://art.plusfeminism.org/resources/training/
-http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki
-http://geekfeminism.wikia.com/wiki/Feminist_group_organizer_checklist
-http://www.thegenderbook.com/the-booklet/4561649703
-http://www.buzzfeed.com/jtes/someone-impersonated-me-to-trick-a-sexual-assault-victim#.jh9VLygdK
-GLAAD has terrific media guides on covering some of these issues: http://www.glaad.org/reference, http://www.glaad.org/reference/transgender
+- [Combatting bias](http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Countering_systemic_bias#Selection_based_on_gender_bias)
+- [Wikipedia Pronoun manual of style](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Pronouns)
+- [Wikipedia Editing](http://art.plusfeminism.org/resources/more/)
+- [Lesson Plans](http://art.plusfeminism.org/resources/training/)
+- [Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki)
+- [Geek Feminism Feminist Group Checklist](http://geekfeminism.wikia.com/wiki/Feminist_group_organizer_checklist)
+- [The Gender Book](http://www.thegenderbook.com/the-booklet/4561649703)
+- [Someone Impersonated Me To Trick A Sexual Assault Victim](http://www.buzzfeed.com/jtes/someone-impersonated-me-to-trick-a-sexual-assault-victim#.jh9VLygdK)
+- [GLAAD Media Guides](http://www.glaad.org/reference, http://www.glaad.org/reference/transgender)
 
 
 # Moving Forward
