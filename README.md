@@ -176,6 +176,7 @@ Frame conversation as "here are some techniques to get better sources/do better 
 
 # Moving Forward
 We want to make a simple site for persistent reference, what might that site look like?
+ - [Buffer Inclusive Dashboard](http://diversity.buffer.com/): Cool project to showcase team diversity
  - [AirportCode](http://airportcod.es/): simple and intuitive lookup resources
  - [The Data Visualisation Catalogue](http://www.datavizcatalogue.com/): like sort functions
  - [Hire More Women In Tech](http://www.hiremorewomenintech.com/): good resources, not super pretty
