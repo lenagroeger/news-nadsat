@@ -163,6 +163,7 @@ Frame conversation as "here are some techniques to get better sources/do better 
 
 
 ### References:
+- [Data Science on Career Choice for Men/Women](https://www.sokanu.com/insights/gender-and-career-choice/)
 - [Combatting bias](http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Countering_systemic_bias#Selection_based_on_gender_bias)
 - [Wikipedia Pronoun manual of style](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Pronouns)
 - [Wikipedia Editing](http://art.plusfeminism.org/resources/more/)
