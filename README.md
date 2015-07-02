@@ -81,40 +81,40 @@ flexible work hours, remote working, childcare assistance, family-inclusive comp
 
 
 ### Hiring/Interviews Links
-[25 Tips for Diverse Hiring](https://modelviewculture.com/pieces/25-tips-for-diverse-hiring)
-[Hire Like Google](http://www.wired.com/2015/04/hire-like-google/)
-[Hire More Women in Tech](http://www.hiremorewomenintech.com/)
-[The Diverse Team](https://leanpub.com/the-diverse-team)
+- [25 Tips for Diverse Hiring](https://modelviewculture.com/pieces/25-tips-for-diverse-hiring)
+- [Hire Like Google](http://www.wired.com/2015/04/hire-like-google/)
+- [Hire More Women in Tech](http://www.hiremorewomenintech.com/)
+- [The Diverse Team](https://leanpub.com/the-diverse-team)
+
 
 ## 3. Workplace/Conferences
 
-Code of Conduct policies are pretty important at most events these days (http://geekfeminism.wikia.com/wiki/Code_of_conduct), and understanding how to manage, encourage and build a diverse team is an important part of maintaining healthy and welcoming work environments.
+[Code of Conduct policies](http://geekfeminism.wikia.com/wiki/Code_of_conduct) are pretty important at most events these days, and understanding how to manage, encourage and build a diverse team is an important part of maintaining healthy and welcoming work environments.
 
 Things to consider:
 - Potential consequences for breaching the Code of Conduct
 - "Take care of each other"
 - Code of Conduct written in humanspeak
-
-Let's share some examples/resources below.
-  - Code of Conduct (SRCCON, other examples)
-Girl Develop It - https://www.girldevelopit.com/code-of-conduct
-SRCCON - http://srccon.org/conduct/
-JSConf - http://confcodeofconduct.com/
-AlterConf - http://www.alterconf.com/
-  - Management/Perils of flat structure/Maintaining integrity and accountability
+- Management/Perils of flat structure/Maintaining integrity and accountability
 
 
-https://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/
-http://geekfeminism.wikia.com/wiki/Code_of_conduct
-https://modelviewculture.com/issues/events
-"Safe conferences are deliberately designed": https://medium.com/@jmspool/safe-conferences-are-deliberately-designed-2849b6cd3658
+### Code of Conduct Links
+- [Girl Develop It](https://www.girldevelopit.com/code-of-conduct)
+- [SRCCON](http://srccon.org/conduct/)
+- [JSConf](http://confcodeofconduct.com/)
+- [AlterConf](http://www.alterconf.com/)
+- [Safe conferences are deliberately designed](https://medium.com/@jmspool/safe-conferences-are-deliberately-designed-2849b6cd3658)
+- [Accesible Events](https://modelviewculture.com/issues/events)
+- [How to Design a Code of Conduct for your Community](https://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/)
+- [Code of Conduct Evaluations](http://geekfeminism.wikia.com/wiki/Code_of_conduct)
+
 
 State code of conduct explicitly up front, in a speech at the beginning of the event. Make consequences clear.
 
-Have things more written/explicit version transmitted orally/implicit. Make it fair to everyone.
-Related: https://en.wikipedia.org/wiki/High-_and_low-context_cultures
+Have things more written/explicit version transmitted orally/implicit. Make it fair to everyone. Consider speaking styles and [what might be left unsaid or assumed.](https://en.wikipedia.org/wiki/High-_and_low-context_cultures)
 
 There are ways to exclude people and make them feel unwelcome — especially new people — even if it's not discrimination against a protected class — is crappy, too. Think about inclusion more generally. How do you treat people? Thing about the idea of taking care of people.
+
 
 ## 4. Content/Work/Stories
 
@@ -131,17 +131,24 @@ Potential Topics:
   - color: what colors to represent diff cultures, should gender be blue/pink?
   - accessibility/Universal design (i.e. picking colors for color blind people) http://ablersite.org/
 
-What we talked about:
-This Nick Kristof piece: http://www.nytimes.com/2015/06/14/opinion/sunday/nicholas-kristof-its-not-just-about-bad-choices.html
-No female voices when talking about poverty
-Clearly his intentions were good, but how do you tactfully critique the lack of relevant voices?
+### One example
+Nick Kristof doesn't include a female voice in his [recent piece on poverty](http://www.nytimes.com/2015/06/14/opinion/sunday/nicholas-kristof-its-not-just-about-bad-choices.html). It doesn't automatically make it a bad piece, but how do you tactfully critique the lack of relevant voices?
 
-• Consider at the beginning of reporting a piece reaching out to wider communities.
+### Some Tips
+
+- Consider at the beginning of reporting a piece reaching out to wider communities.
 related: starting broadly when you're reporting/looking for sources -- casting a wide net of sources in the beginning can affect how your story goes forward re: diversity
 
-Start measuring the voices in your publication (census of your ancedotes!)
+- Start measuring the voices in your publication (census of your ancedotes!)
 Know what type of sources you're using. Yes, you're on deadline, you need to get a story done and you need a compelling voice, but if you look at the results year over year, you can see if all of these things drives you back to literally the same sources over and over again.
 
+- Come to people with tools and suggestions.
+It's easy for folks to get defensive when you bring up the lack of diversity/voices in a story, so come prepared with solutions.
+Instead of pointing out examples of stories that lack diversity, give people tools and techniques that might help them on their next story.
+Example: cast the widest net possible when gathering sources at the very beginning of the reporting process, use [databases to find diverse sources] (http://www.embo.org/science-policy/women-in-science/wils-database-of-women-in-life-sciences)
+Frame conversation as "here are some techniques to get better sources/do better reporting" not, "this is what was problematic in your story" Look to the future, not rehash past missteps.
+
+### Other Thoughts
 Demographics of your reporting/editing staff will affect the demographics of your sources. Diverse backgrounds—gender, race, ethnicity, region, class, age—also broaden newsroom discussion in valuable ways.
 Wonder: Are specific stories being funneled to reporters of color or gender?
 Benefits: You can have a member of the community covering it
@@ -150,12 +157,6 @@ Members of the community may be more open to someone from the same community.
 Cons: Pigeon-holing, stereotyping
 Are we making someone in the newsroom the "token" representative for a certain minority?
 Representing the community as a burden
-
-How do make sure folks aren't defensive when you bring up the lack of diversity/voices in a story?
-Come to them with tools and suggestions. There are some databases: http://www.academia-net.org  http://www.embo.org/science-policy/women-in-science/wils-database-of-women-in-life-sciences
-Instead of pointing out examples of stories that lack diversity, give people tools and techniques that might help them on their next story.
-Example: cast the widest net possible when gathering sources at the very beginning of the reporting process
-Frame conversation as "here are some techniques to get better sources/do better reporting" not, "this is what was problematic in your story" Look to the future, not rehash past missteps.
 
 
 # RESOURCES
@@ -172,6 +173,7 @@ Frame conversation as "here are some techniques to get better sources/do better 
 
 
 ### References:
+- [Academia Net: Database of female experts](http://www.academia-net.org)
 - [Data Science on Career Choice for Men/Women](https://www.sokanu.com/insights/gender-and-career-choice/)
 - [Combatting bias](http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Countering_systemic_bias#Selection_based_on_gender_bias)
 - [Wikipedia Pronoun manual of style](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Pronouns)
