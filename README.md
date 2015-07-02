@@ -74,9 +74,11 @@ Let's come up with a set of guidelines for a good, inclusive, structured intervi
   - Specifically advertise company benefits that are supportive of diverse workers.
 flexible work hours, remote working, childcare assistance, family-inclusive company events, accessible facilities and workplace environments, mental health care coverage, vacation time, mentoring and training opportunities, trans-inclusive health care and parental leave
 
-- Make sure interviewers are well-versed in what is and isn't ok to ask during an interview for legal reasons. (http://www.mtu.edu/equity/pdfs/whatyoucanandcantasklongversion8-12-04.pdf from 2012-3)
+- Make sure interviewers are well-versed in what is and isn't ok to ask during an interview for legal reasons. [Here's a good resource](http://www.mtu.edu/equity/pdfs/whatyoucanandcantasklongversion8-12-04.pdf)
 
 - Actively call out interest in diverse applicants. Expressing your company’s explicit interest and commitment to hiring diverse applicants helps communicate that building diverse teams is a priority for your company.
+
+### Hiring/Interviews Links
 
 https://modelviewculture.com/pieces/25-tips-for-diverse-hiring
 http://www.wired.com/2015/04/hire-like-google/
