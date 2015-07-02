@@ -38,6 +38,7 @@ There are groups to talk to with more diverse potential candidates. We also need
 How do you talk to your HR dept about doing their job without doing their job?
 We created a database of people to contact to ask where we should put the ad to reach more diverse range of candidates, and everyone on the team took on responsibility for contacting people to ask that question.</blockquote>
 
+### Posting/Recruiting Links
 
 http://www.hiremorewomenintech.com/
 http://www.ere.net/2013/03/01/you-dont-know-it-but-women-see-gender-bias-in-your-job-postings/
@@ -46,12 +47,10 @@ https://open.bufferapp.com/job-descriptions-diversity/
 I used Textio, http://www.textio.com, in their beta phase to improve our job ads. I made several major changes based on its really smart interface.
 https://modelviewculture.com/issues/hiring
 
-good/bad examples of EOE sentences/paragraphs at the ends of job postings:
+### What We Want to Gather
+- Good/bad examples of EOE sentences/paragraphs at the ends of job postings
+- Sample job descriptions redlined — before-and-after versions — with exclusionary/inclusionary language — would be helpful.
 
-
-
-
-Having concrete examples: sample job descriptions redlined — before-and-after versions — with exclusionary/inclusionary language — would be helpful.
 
 ## 2. Hiring/Interviews
 
@@ -61,19 +60,23 @@ As fair and impartial as we like to think we are, we are all subject to biases: 
 
 Let's come up with a set of guidelines for a good, inclusive, structured interview.
 
-  - Interview process, having the same questions/ set tasks/skill assessments
-Actively call out interest in diverse applicants. Expressing your company’s explicit interest and commitment to hiring diverse applicants helps communicate that building diverse teams is a priority for your company.
-  - Who does the interview?
-      - Should that person be consistent for every interview?
-  - Good Interview questions:
-Tell me about a time your behavior had a positive impact on your team. (Follow-ups: What was your primary goal and why? How did your teammates respond? Moving forward, what’s your plan?)
-Tell me about a time when you effectively managed your team to achieve a goal. What did your approach look like? (Follow-ups: What were your targets and how did you meet them as an individual and as a team? How did you adapt your leadership approach to different individuals? What was the key takeaway from this specific situation?)
-Tell me about a time you had difficulty working with someone (can be a coworker, classmate, client). What made this person difficult to work with for you? (Follow-ups: What steps did you take to resolve the problem? What was the outcome? What could you have done differently?)
-  - Workplace benefits
-Specifically advertise company benefits that are supportive of diverse workers.
-flexible work hours, remote working, childcare assistance, family-inclusive company events, accessible facilities and workplace environments, mental health care coverage, vacation time, mentoring and training opportunities, trans-inclusive health care and parental leave
-Need to prepare people in hiring with what is and isn't ok to ask for legal reasons. (http://www.mtu.edu/equity/pdfs/whatyoucanandcantasklongversion8-12-04.pdf from 2012-3) It's also important that all the same candidates are asked the same questions. People are not trained on how to interview candidates.
+- Interview process
+  - All the same candidates should be asked the same questions, given the same assessments, etc. This makes it easier to compare candidates, and less likely the interview will just reflect the interviewer's personal liking of a candidate.
 
+- Who does the interview?
+    - Should that person be consistent for every interview?
+- Good Interview questions:
+    - Tell me about a time your behavior had a positive impact on your team. (Follow-ups: What was your primary goal and why? How did your teammates respond? Moving forward, what’s your plan?)
+    - Tell me about a time when you effectively managed your team to achieve a goal. What did your approach look like? (Follow-ups: What were your targets and how did you meet them as an individual and as a team? How did you adapt your leadership approach to different individuals? What was the key takeaway from this specific situation?)
+    - Tell me about a time you had difficulty working with someone (can be a coworker, classmate, client). What made this person difficult to work with for you? (Follow-ups: What steps did you take to resolve the problem? What was the outcome? What could you have done differently?)
+
+- Use interviews as a place to discuss workplace benefits
+  - Specifically advertise company benefits that are supportive of diverse workers.
+flexible work hours, remote working, childcare assistance, family-inclusive company events, accessible facilities and workplace environments, mental health care coverage, vacation time, mentoring and training opportunities, trans-inclusive health care and parental leave
+
+- Make sure interviewers are well-versed in what is and isn't ok to ask during an interview for legal reasons. (http://www.mtu.edu/equity/pdfs/whatyoucanandcantasklongversion8-12-04.pdf from 2012-3)
+
+- Actively call out interest in diverse applicants. Expressing your company’s explicit interest and commitment to hiring diverse applicants helps communicate that building diverse teams is a priority for your company.
 
 https://modelviewculture.com/pieces/25-tips-for-diverse-hiring
 http://www.wired.com/2015/04/hire-like-google/
