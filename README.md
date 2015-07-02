@@ -166,6 +166,7 @@ Frame conversation as "here are some techniques to get better sources/do better 
 
 
 ### References:
+- [Data Science on Career Choice for Men/Women](https://www.sokanu.com/insights/gender-and-career-choice/)
 - [Combatting bias](http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Countering_systemic_bias#Selection_based_on_gender_bias)
 - [Wikipedia Pronoun manual of style](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Pronouns)
 - [Wikipedia Editing](http://art.plusfeminism.org/resources/more/)
@@ -179,10 +180,11 @@ Frame conversation as "here are some techniques to get better sources/do better 
 
 # Moving Forward
 We want to make a simple site for persistent reference, what might that site look like?
-[AirportCode](http://airportcod.es/): simple and intuitive lookup resources
-[The Data Visualisation Catalogue](http://www.datavizcatalogue.com/): like sort functions
-[Hire More Women In Tech](http://www.hiremorewomenintech.com/): good resources, not super pretty
-[About Feminism](http://aboutfeminism.me/): good explanation, but again, a list
-
-[LGBTQLexicon](https://gist.github.com/Emily-Goldblum/ee6a5c206ce6eb1d2bed#file-scope-template-md): This website will act as an interactive dictionary for queer terms. Contatct emily.goldblum@journalism.cuny.edu with any questions.
+ - [Buffer Inclusive Dashboard](http://diversity.buffer.com/): Cool project to showcase team diversity
+ - [Do Better Graphic](http://do-better.herokuapp.com/): Visualization of team diversity across multiple companies
+ - [AirportCode](http://airportcod.es/): simple and intuitive lookup resources
+ - [The Data Visualisation Catalogue](http://www.datavizcatalogue.com/): like sort functions
+ - [Hire More Women In Tech](http://www.hiremorewomenintech.com/): good resources, not super pretty
+ - [About Feminism](http://aboutfeminism.me/): good explanation, but again, a list
+ - [LGBTQLexicon](https://gist.github.com/Emily-Goldblum/ee6a5c206ce6eb1d2bed#file-scope-template-md): This website will act as an interactive dictionary for queer terms. Contatct emily.goldblum@journalism.cuny.edu with any questions.
 
