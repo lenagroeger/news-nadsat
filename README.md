@@ -54,7 +54,7 @@ https://modelviewculture.com/issues/hiring
 
 ## 2. Hiring/Interviews
 
-"Most interviews are a waste of time because 99.4 percent of the time is spent trying to confirm whatever impression the interviewer formed in the first ten seconds." - Senior Vice President of People Operations at Google http://www.wired.com/2015/04/hire-like-google/
+"Most interviews are a waste of time because 99.4 percent of the time is spent trying to confirm whatever impression the interviewer formed in the first ten seconds." - [Senior Vice President of People Operations at Google](http://www.wired.com/2015/04/hire-like-google/)
 
 As fair and impartial as we like to think we are, we are all subject to biases: we favor people who look and talk like us, we form quick impressions based on few facts, we hold implicit beliefs about large groups of people. Given these biases, how do we make sure all applicants for a job are treated fairly and assessed accurately? One way is to have structured interviews (not vastly open ended questions like "Tell me about yourself..." or trivia-dependent brainteasers like “How many golf balls would fit inside a 747?”
 
@@ -78,12 +78,13 @@ flexible work hours, remote working, childcare assistance, family-inclusive comp
 
 - Actively call out interest in diverse applicants. Expressing your company’s explicit interest and commitment to hiring diverse applicants helps communicate that building diverse teams is a priority for your company.
 
-### Hiring/Interviews Links
 
-https://modelviewculture.com/pieces/25-tips-for-diverse-hiring
-http://www.wired.com/2015/04/hire-like-google/
-http://www.hiremorewomenintech.com/
-https://leanpub.com/the-diverse-team
+
+### Hiring/Interviews Links
+[25 Tips for Diverse Hiring](https://modelviewculture.com/pieces/25-tips-for-diverse-hiring)
+[Hire Like Google](http://www.wired.com/2015/04/hire-like-google/)
+[Hire More Women in Tech](http://www.hiremorewomenintech.com/)
+[The Diverse Team](https://leanpub.com/the-diverse-team)
 
 ## 3. Workplace/Conferences
 
