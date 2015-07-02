@@ -22,18 +22,21 @@ to me, she/he reads a bit easier than s/he. Is there CP/AP/CMOS style on this?
 How about "You"? Makes it more personal, instead of talking in third person, also avoids gender identity issues
   - How to respond to emails (recruiter emails, notes)
 I have a strategy for responding to recruiters and making the situation mutually productive: even if you're not interested in the job, ask about an issue you care about so that they have to then return to their employer and develop a policy for answering/addressing those requests. I always ask about "what's your company's policy on providing transgender healthcare?"
+
 <blockquote>Thanks for writing. What is the demographic makeup of the team at [company name]? Having a diverse company is very important to me. Does the company — and its leadership team — consist of people other then white and asian men?
-[Optional addition] Do you have a publicly available diversity report? Something like this?s
-http://www.google.com/diversity/at-google.html
-https://www.apple.com/diversity/
+[Optional addition] Do you have a publicly available diversity report? Something like this?
+- http://www.google.com/diversity/at-google.html
+- https://www.apple.com/diversity/
 I’d need to see one of those before we began any discussions.</blockquote>
 
 
-We added this language to all Moz OpenNews ads: "If you’re deeply interested in working on technical problems within journalism and have relevant skills and experience, please consider applying even if your background doesn’t perfectly match our ideal credentials. We are committed to diversity and especially encourage members of underrepresented communities to apply." But boiler plate language doesn't solve anything - it feels disconnected from the rest of the body.
+We added this language to all Moz OpenNews ads:
+
+<blockquote>"If you’re deeply interested in working on technical problems within journalism and have relevant skills and experience, please consider applying even if your background doesn’t perfectly match our ideal credentials. We are committed to diversity and especially encourage members of underrepresented communities to apply." But boiler plate language doesn't solve anything - it feels disconnected from the rest of the body.
 Pipeline issues are part of the issue. The org needs to work not that as well.
 There are groups to talk to with more diverse potential candidates. We also need to be more present in communities that don't currently see us as places to work. We can't just walk in and say "give us your best people."
 How do you talk to your HR dept about doing their job without doing their job?
-We created a database of people to contact to ask where we should put the ad to reach more diverse range of candidates, and everyone on the team took on responsibility for contacting people to ask that question.
+We created a database of people to contact to ask where we should put the ad to reach more diverse range of candidates, and everyone on the team took on responsibility for contacting people to ask that question.</blockquote>
 
 
 http://www.hiremorewomenintech.com/
