@@ -22,19 +22,23 @@ to me, she/he reads a bit easier than s/he. Is there CP/AP/CMOS style on this?
 How about "You"? Makes it more personal, instead of talking in third person, also avoids gender identity issues
   - How to respond to emails (recruiter emails, notes)
 I have a strategy for responding to recruiters and making the situation mutually productive: even if you're not interested in the job, ask about an issue you care about so that they have to then return to their employer and develop a policy for answering/addressing those requests. I always ask about "what's your company's policy on providing transgender healthcare?"
+
 <blockquote>Thanks for writing. What is the demographic makeup of the team at [company name]? Having a diverse company is very important to me. Does the company — and its leadership team — consist of people other then white and asian men?
-[Optional addition] Do you have a publicly available diversity report? Something like this?s
-http://www.google.com/diversity/at-google.html
-https://www.apple.com/diversity/
+[Optional addition] Do you have a publicly available diversity report? Something like this?
+- http://www.google.com/diversity/at-google.html
+- https://www.apple.com/diversity/
 I’d need to see one of those before we began any discussions.</blockquote>
 
 
-We added this language to all Moz OpenNews ads: "If you’re deeply interested in working on technical problems within journalism and have relevant skills and experience, please consider applying even if your background doesn’t perfectly match our ideal credentials. We are committed to diversity and especially encourage members of underrepresented communities to apply." But boiler plate language doesn't solve anything - it feels disconnected from the rest of the body.
+We added this language to all Moz OpenNews ads:
+
+<blockquote>"If you’re deeply interested in working on technical problems within journalism and have relevant skills and experience, please consider applying even if your background doesn’t perfectly match our ideal credentials. We are committed to diversity and especially encourage members of underrepresented communities to apply." But boiler plate language doesn't solve anything - it feels disconnected from the rest of the body.
 Pipeline issues are part of the issue. The org needs to work not that as well.
 There are groups to talk to with more diverse potential candidates. We also need to be more present in communities that don't currently see us as places to work. We can't just walk in and say "give us your best people."
 How do you talk to your HR dept about doing their job without doing their job?
-We created a database of people to contact to ask where we should put the ad to reach more diverse range of candidates, and everyone on the team took on responsibility for contacting people to ask that question.
+We created a database of people to contact to ask where we should put the ad to reach more diverse range of candidates, and everyone on the team took on responsibility for contacting people to ask that question.</blockquote>
 
+### Posting/Recruiting Links
 
 http://www.hiremorewomenintech.com/
 http://www.ere.net/2013/03/01/you-dont-know-it-but-women-see-gender-bias-in-your-job-postings/
@@ -43,69 +47,74 @@ https://open.bufferapp.com/job-descriptions-diversity/
 I used Textio, http://www.textio.com, in their beta phase to improve our job ads. I made several major changes based on its really smart interface.
 https://modelviewculture.com/issues/hiring
 
-good/bad examples of EOE sentences/paragraphs at the ends of job postings:
+### What We Want to Gather
+- Good/bad examples of EOE sentences/paragraphs at the ends of job postings
+- Sample job descriptions redlined — before-and-after versions — with exclusionary/inclusionary language — would be helpful.
 
-
-
-
-Having concrete examples: sample job descriptions redlined — before-and-after versions — with exclusionary/inclusionary language — would be helpful.
 
 ## 2. Hiring/Interviews
 
-"Most interviews are a waste of time because 99.4 percent of the time is spent trying to confirm whatever impression the interviewer formed in the first ten seconds." - Senior Vice President of People Operations at Google http://www.wired.com/2015/04/hire-like-google/
+"Most interviews are a waste of time because 99.4 percent of the time is spent trying to confirm whatever impression the interviewer formed in the first ten seconds." - [Senior Vice President of People Operations at Google](http://www.wired.com/2015/04/hire-like-google/)
 
 As fair and impartial as we like to think we are, we are all subject to biases: we favor people who look and talk like us, we form quick impressions based on few facts, we hold implicit beliefs about large groups of people. Given these biases, how do we make sure all applicants for a job are treated fairly and assessed accurately? One way is to have structured interviews (not vastly open ended questions like "Tell me about yourself..." or trivia-dependent brainteasers like “How many golf balls would fit inside a 747?”
 
 Let's come up with a set of guidelines for a good, inclusive, structured interview.
 
-  - Interview process, having the same questions/ set tasks/skill assessments
-Actively call out interest in diverse applicants. Expressing your company’s explicit interest and commitment to hiring diverse applicants helps communicate that building diverse teams is a priority for your company.
-  - Who does the interview?
-      - Should that person be consistent for every interview?
-  - Good Interview questions:
-Tell me about a time your behavior had a positive impact on your team. (Follow-ups: What was your primary goal and why? How did your teammates respond? Moving forward, what’s your plan?)
-Tell me about a time when you effectively managed your team to achieve a goal. What did your approach look like? (Follow-ups: What were your targets and how did you meet them as an individual and as a team? How did you adapt your leadership approach to different individuals? What was the key takeaway from this specific situation?)
-Tell me about a time you had difficulty working with someone (can be a coworker, classmate, client). What made this person difficult to work with for you? (Follow-ups: What steps did you take to resolve the problem? What was the outcome? What could you have done differently?)
-  - Workplace benefits
-Specifically advertise company benefits that are supportive of diverse workers.
+- Interview process
+  - All the same candidates should be asked the same questions, given the same assessments, etc. This makes it easier to compare candidates, and less likely the interview will just reflect the interviewer's personal liking of a candidate.
+
+- Who does the interview?
+    - Should that person be consistent for every interview?
+- Good Interview questions:
+    - Tell me about a time your behavior had a positive impact on your team. (Follow-ups: What was your primary goal and why? How did your teammates respond? Moving forward, what’s your plan?)
+    - Tell me about a time when you effectively managed your team to achieve a goal. What did your approach look like? (Follow-ups: What were your targets and how did you meet them as an individual and as a team? How did you adapt your leadership approach to different individuals? What was the key takeaway from this specific situation?)
+    - Tell me about a time you had difficulty working with someone (can be a coworker, classmate, client). What made this person difficult to work with for you? (Follow-ups: What steps did you take to resolve the problem? What was the outcome? What could you have done differently?)
+
+- Use interviews as a place to discuss workplace benefits
+  - Specifically advertise company benefits that are supportive of diverse workers.
 flexible work hours, remote working, childcare assistance, family-inclusive company events, accessible facilities and workplace environments, mental health care coverage, vacation time, mentoring and training opportunities, trans-inclusive health care and parental leave
-Need to prepare people in hiring with what is and isn't ok to ask for legal reasons. (http://www.mtu.edu/equity/pdfs/whatyoucanandcantasklongversion8-12-04.pdf from 2012-3) It's also important that all the same candidates are asked the same questions. People are not trained on how to interview candidates.
+
+- Make sure interviewers are well-versed in what is and isn't ok to ask during an interview for legal reasons. [Here's a good resource](http://www.mtu.edu/equity/pdfs/whatyoucanandcantasklongversion8-12-04.pdf)
+
+- Actively call out interest in diverse applicants. Expressing your company’s explicit interest and commitment to hiring diverse applicants helps communicate that building diverse teams is a priority for your company.
 
 
-https://modelviewculture.com/pieces/25-tips-for-diverse-hiring
-http://www.wired.com/2015/04/hire-like-google/
-http://www.hiremorewomenintech.com/
-https://leanpub.com/the-diverse-team
+
+### Hiring/Interviews Links
+- [25 Tips for Diverse Hiring](https://modelviewculture.com/pieces/25-tips-for-diverse-hiring)
+- [Hire Like Google](http://www.wired.com/2015/04/hire-like-google/)
+- [Hire More Women in Tech](http://www.hiremorewomenintech.com/)
+- [The Diverse Team](https://leanpub.com/the-diverse-team)
+
 
 ## 3. Workplace/Conferences
 
-Code of Conduct policies are pretty important at most events these days (http://geekfeminism.wikia.com/wiki/Code_of_conduct), and understanding how to manage, encourage and build a diverse team is an important part of maintaining healthy and welcoming work environments.
+[Code of Conduct policies](http://geekfeminism.wikia.com/wiki/Code_of_conduct) are pretty important at most events these days, and understanding how to manage, encourage and build a diverse team is an important part of maintaining healthy and welcoming work environments.
 
 Things to consider:
 - Potential consequences for breaching the Code of Conduct
 - "Take care of each other"
 - Code of Conduct written in humanspeak
-
-Let's share some examples/resources below.
-  - Code of Conduct (SRCCON, other examples)
-Girl Develop It - https://www.girldevelopit.com/code-of-conduct
-SRCCON - http://srccon.org/conduct/
-JSConf - http://confcodeofconduct.com/
-AlterConf - http://www.alterconf.com/
-  - Management/Perils of flat structure/Maintaining integrity and accountability
+- Management/Perils of flat structure/Maintaining integrity and accountability
 
 
-https://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/
-http://geekfeminism.wikia.com/wiki/Code_of_conduct
-https://modelviewculture.com/issues/events
-"Safe conferences are deliberately designed": https://medium.com/@jmspool/safe-conferences-are-deliberately-designed-2849b6cd3658
+### Code of Conduct Links
+- [Girl Develop It](https://www.girldevelopit.com/code-of-conduct)
+- [SRCCON](http://srccon.org/conduct/)
+- [JSConf](http://confcodeofconduct.com/)
+- [AlterConf](http://www.alterconf.com/)
+- [Safe conferences are deliberately designed](https://medium.com/@jmspool/safe-conferences-are-deliberately-designed-2849b6cd3658)
+- [Accesible Events](https://modelviewculture.com/issues/events)
+- [How to Design a Code of Conduct for your Community](https://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/)
+- [Code of Conduct Evaluations](http://geekfeminism.wikia.com/wiki/Code_of_conduct)
+
 
 State code of conduct explicitly up front, in a speech at the beginning of the event. Make consequences clear.
 
-Have things more written/explicit version transmitted orally/implicit. Make it fair to everyone.
-Related: https://en.wikipedia.org/wiki/High-_and_low-context_cultures
+Have things more written/explicit version transmitted orally/implicit. Make it fair to everyone. Consider speaking styles and [what might be left unsaid or assumed.](https://en.wikipedia.org/wiki/High-_and_low-context_cultures)
 
 There are ways to exclude people and make them feel unwelcome — especially new people — even if it's not discrimination against a protected class — is crappy, too. Think about inclusion more generally. How do you treat people? Thing about the idea of taking care of people.
+
 
 ## 4. Content/Work/Stories
 
@@ -122,17 +131,24 @@ Potential Topics:
   - color: what colors to represent diff cultures, should gender be blue/pink?
   - accessibility/Universal design (i.e. picking colors for color blind people) http://ablersite.org/
 
-What we talked about:
-This Nick Kristof piece: http://www.nytimes.com/2015/06/14/opinion/sunday/nicholas-kristof-its-not-just-about-bad-choices.html
-No female voices when talking about poverty
-Clearly his intentions were good, but how do you tactfully critique the lack of relevant voices?
+### One example
+Nick Kristof doesn't include a female voice in his [recent piece on poverty](http://www.nytimes.com/2015/06/14/opinion/sunday/nicholas-kristof-its-not-just-about-bad-choices.html). It doesn't automatically make it a bad piece, but how do you tactfully critique the lack of relevant voices?
 
-• Consider at the beginning of reporting a piece reaching out to wider communities.
+### Some Tips
+
+- Consider at the beginning of reporting a piece reaching out to wider communities.
 related: starting broadly when you're reporting/looking for sources -- casting a wide net of sources in the beginning can affect how your story goes forward re: diversity
 
-Start measuring the voices in your publication (census of your ancedotes!)
+- Start measuring the voices in your publication (census of your ancedotes!)
 Know what type of sources you're using. Yes, you're on deadline, you need to get a story done and you need a compelling voice, but if you look at the results year over year, you can see if all of these things drives you back to literally the same sources over and over again.
 
+- Come to people with tools and suggestions.
+It's easy for folks to get defensive when you bring up the lack of diversity/voices in a story, so come prepared with solutions.
+Instead of pointing out examples of stories that lack diversity, give people tools and techniques that might help them on their next story.
+Example: cast the widest net possible when gathering sources at the very beginning of the reporting process, use [databases to find diverse sources] (http://www.embo.org/science-policy/women-in-science/wils-database-of-women-in-life-sciences)
+Frame conversation as "here are some techniques to get better sources/do better reporting" not, "this is what was problematic in your story" Look to the future, not rehash past missteps.
+
+### Other Thoughts
 Demographics of your reporting/editing staff will affect the demographics of your sources. Diverse backgrounds—gender, race, ethnicity, region, class, age—also broaden newsroom discussion in valuable ways.
 Wonder: Are specific stories being funneled to reporters of color or gender?
 Benefits: You can have a member of the community covering it
@@ -141,12 +157,6 @@ Members of the community may be more open to someone from the same community.
 Cons: Pigeon-holing, stereotyping
 Are we making someone in the newsroom the "token" representative for a certain minority?
 Representing the community as a burden
-
-How do make sure folks aren't defensive when you bring up the lack of diversity/voices in a story?
-Come to them with tools and suggestions. There are some databases: http://www.academia-net.org  http://www.embo.org/science-policy/women-in-science/wils-database-of-women-in-life-sciences
-Instead of pointing out examples of stories that lack diversity, give people tools and techniques that might help them on their next story.
-Example: cast the widest net possible when gathering sources at the very beginning of the reporting process
-Frame conversation as "here are some techniques to get better sources/do better reporting" not, "this is what was problematic in your story" Look to the future, not rehash past missteps.
 
 
 # RESOURCES
@@ -164,6 +174,7 @@ Frame conversation as "here are some techniques to get better sources/do better 
 
 
 ### References:
+- [Academia Net: Database of female experts](http://www.academia-net.org)
 - [Data Science on Career Choice for Men/Women](https://www.sokanu.com/insights/gender-and-career-choice/)
 - [Combatting bias](http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Countering_systemic_bias#Selection_based_on_gender_bias)
 - [Wikipedia Pronoun manual of style](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Pronouns)
