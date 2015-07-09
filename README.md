@@ -155,6 +155,7 @@ Frame conversation as "here are some techniques to get better sources/do better 
 - [How to talk about Caitlyn Jenner](http://boingboing.net/2015/06/01/how-to-talk-about-caitlyn-jenn.html)
 - [No Excuse for All White Male Panels](https://hbr.org/2014/01/theres-no-excuse-for-all-white-male-panels)
 - [Social Norms and Expectations](https://kateheddleston.com/blog/social-norms-and-gendered-expectations)
+- [Terms to Use for Female Groups](http://geekfeminism.wikia.com/wiki/Terms_to_designate_groups_for_women)
 
 ### What not to do:
 - [DICSS](http://letsgetrandy.github.io/DICSS/)
