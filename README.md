@@ -115,6 +115,8 @@ Have things more written/explicit version transmitted orally/implicit. Make it f
 
 There are ways to exclude people and make them feel unwelcome — especially new people — even if it's not discrimination against a protected class — is crappy, too. Think about inclusion more generally. How do you treat people? Thing about the idea of taking care of people.
 
+If your work involves open source projects consider including the [Contributor Covenant](http://contributor-covenant.org/). It is a code of conduct designed to be included in open source projects promoting inclusive behavior.
+
 
 ## 4. Content/Work/Stories
 
